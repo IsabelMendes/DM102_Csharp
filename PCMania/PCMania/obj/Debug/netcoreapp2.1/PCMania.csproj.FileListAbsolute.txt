@@ -1,0 +1,11 @@
+C:\Users\Isabel Francine Mend\Desktop\PosGraduacao\DM102_Renzo\DM102_PCMania\PCMania\PCMania\bin\Debug\netcoreapp2.1\PCMania.deps.json
+C:\Users\Isabel Francine Mend\Desktop\PosGraduacao\DM102_Renzo\DM102_PCMania\PCMania\PCMania\bin\Debug\netcoreapp2.1\PCMania.runtimeconfig.json
+C:\Users\Isabel Francine Mend\Desktop\PosGraduacao\DM102_Renzo\DM102_PCMania\PCMania\PCMania\bin\Debug\netcoreapp2.1\PCMania.runtimeconfig.dev.json
+C:\Users\Isabel Francine Mend\Desktop\PosGraduacao\DM102_Renzo\DM102_PCMania\PCMania\PCMania\bin\Debug\netcoreapp2.1\PCMania.dll
+C:\Users\Isabel Francine Mend\Desktop\PosGraduacao\DM102_Renzo\DM102_PCMania\PCMania\PCMania\bin\Debug\netcoreapp2.1\PCMania.pdb
+C:\Users\Isabel Francine Mend\Desktop\PosGraduacao\DM102_Renzo\DM102_PCMania\PCMania\PCMania\obj\Debug\netcoreapp2.1\PCMania.csprojAssemblyReference.cache
+C:\Users\Isabel Francine Mend\Desktop\PosGraduacao\DM102_Renzo\DM102_PCMania\PCMania\PCMania\obj\Debug\netcoreapp2.1\PCMania.csproj.CoreCompileInputs.cache
+C:\Users\Isabel Francine Mend\Desktop\PosGraduacao\DM102_Renzo\DM102_PCMania\PCMania\PCMania\obj\Debug\netcoreapp2.1\PCMania.AssemblyInfoInputs.cache
+C:\Users\Isabel Francine Mend\Desktop\PosGraduacao\DM102_Renzo\DM102_PCMania\PCMania\PCMania\obj\Debug\netcoreapp2.1\PCMania.AssemblyInfo.cs
+C:\Users\Isabel Francine Mend\Desktop\PosGraduacao\DM102_Renzo\DM102_PCMania\PCMania\PCMania\obj\Debug\netcoreapp2.1\PCMania.dll
+C:\Users\Isabel Francine Mend\Desktop\PosGraduacao\DM102_Renzo\DM102_PCMania\PCMania\PCMania\obj\Debug\netcoreapp2.1\PCMania.pdb
