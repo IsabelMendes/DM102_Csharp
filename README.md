@@ -1,2 +1,2 @@
-# DM102_PCMania
-C# introduction course.
+# C# introduction course.
+
